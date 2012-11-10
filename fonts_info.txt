@@ -1,0 +1,6 @@
+List of Fonts used in template 
+
+Open Sans Condensed	http://www.google.com/webfonts/specimen/Open+Sans+Condensed
+Alegreya			http://www.google.com/webfonts/specimen/Alegreya
+Pacifico			http://www.google.com/webfonts/family?family=Pacifico&subset=latin#download
+PT Sans Narrow		http://www.google.com/webfonts/download?kit=7nBMW2vUKH_rT9tAKKKBpiTBD9fnc3hkPST15W7T9qk
